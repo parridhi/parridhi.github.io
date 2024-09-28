@@ -11,10 +11,9 @@ I have experience in:
 - Design, Canva, Social Media
 
 ## Projects
-### Hand Gesture Recognition
+### [Hand Gesture Recognition](https://github.com/parridhi/hand-recognition)
 Built on a tech stack that includes Python, OpenCV, and TensorFlow. The primary focus of this project is to leverage computer vision and machine learning models for recognizing hand gestures, ensuring high accuracy and real-time results.
 - *Technologies Used:* [OpenCV], [Python], [TensorFlow]
-[Link](https://github.com/parridhi/hand-recognition)
 
 ### Vehicle Price Prediction
 The Car Price Prediction project is designed to predict the prices of cars based on various relevant factors. The main objective of this project is to build a model that can accurately estimate the market value of a car, empowering both car buyers and sellers to make more informed decisions.
