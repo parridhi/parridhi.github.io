@@ -1,4 +1,5 @@
-### Hello! Welcome to my portfolio
+### Hello!
+Welcome to my portfolio
 
 ## I am Paridhi Puri, I work full-time as a trainee engineer and am passionate about Data Science and ML
 
