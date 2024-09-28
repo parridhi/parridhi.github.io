@@ -1,4 +1,4 @@
-### 👋 Hey there!
+### Paridhi Puri | BTech Grad
 I am a 2024 graduate, working as a Trainee Engineer. I am interested in Python, Machine Learning, and Data Science.
 I love diving into the realm of technology and uncovering innovative solutions. My repositories reflect my journey, showcasing projects and code that exemplify my dedication to these fields. Let's embark on an exciting adventure of continuous learning and exploration together.
 I'm always eager to engage in meaningful discussions and grow together in this ever-evolving tech world.🚀
