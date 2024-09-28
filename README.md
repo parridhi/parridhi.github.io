@@ -11,23 +11,23 @@ I have experience in:
 
 ## Projects
 ### Hand Gesture Recognition
-**Description:** Built on a tech stack that includes Python, OpenCV, and TensorFlow. The primary focus of this project is to leverage computer vision and machine learning models for recognizing hand gestures, ensuring high accuracy and real-time results.
-**Technologies Used:** [OpenCV], [Python], [TensorFlow]
+Built on a tech stack that includes Python, OpenCV, and TensorFlow. The primary focus of this project is to leverage computer vision and machine learning models for recognizing hand gestures, ensuring high accuracy and real-time results.
+- *Technologies Used:* [OpenCV], [Python], [TensorFlow]
 [Link](https://github.com/parridhi/hand-recognition)
 
 ### Vehicle Price Prediction
-**Description:** The Car Price Prediction project is designed to predict the prices of cars based on various relevant factors. The main objective of this project is to build a model that can accurately estimate the market value of a car, empowering both car buyers and sellers to make more informed decisions.
-**Technologies Used:** [Pandas], [NumPy], [Scikit-learn], [Pickle], [HTML], [CSS], [JS]
+The Car Price Prediction project is designed to predict the prices of cars based on various relevant factors. The main objective of this project is to build a model that can accurately estimate the market value of a car, empowering both car buyers and sellers to make more informed decisions.
+- *Technologies Used:* [Pandas], [NumPy], [Scikit-learn], [Pickle], [HTML], [CSS], [JS]
 [Link](https://github.com/parridhi/Price-Prediction)
 
 ### Interactive Chat Bot - A conversational AI system
-**Description:** An interactive chatbot designed to engage users in real-time conversations and provide personalized responses. This project utilizes advanced NLP capabilities to accurately interpret user queries. It is specifically created for websites catering to a small niche.
-**Technologies Used:** [Python], [Keras], [NumPy], [NLTK], [PyTorch]
+An interactive chatbot designed to engage users in real-time conversations and provide personalized responses. This project utilizes advanced NLP capabilities to accurately interpret user queries. It is specifically created for websites catering to a small niche.
+- *Technologies Used:* [Python], [Keras], [NumPy], [NLTK], [PyTorch]
 [Link](https://github.com/parridhi/Interactive-ChatBot)
 
 ### Game-Hangman
-**Description:** Hangman is a timeless word-guessing game that has entertained people of all ages for generations. The objective is simple: guess the hidden word correctly before you run out of attempts, represented by the iconic hangman's gallows drawing.
-**Technologies Used:** [HTML], [CSS], [JS]
+Hangman is a timeless word-guessing game that has entertained people of all ages for generations. The objective is simple: guess the hidden word correctly before you run out of attempts, represented by the iconic hangman's gallows drawing.
+- *Technologies Used:* [HTML], [CSS], [JS]
 [Link](https://github.com/parridhi/Game-Hangman)
 
 ## Tech Stack
